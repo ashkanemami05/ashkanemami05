@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Ashkan Emami , Android developer (Java) , Web developer (PHP) & Python developer.
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <!--
 **ashkanemami05/ashkanemami05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
