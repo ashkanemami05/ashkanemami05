@@ -6,12 +6,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashkanemami05&icon=5&color=12)](https://visitcount.itsvg.in)
+
 
 <h1 align="center">Hi 👋, I'm Ashkan</h1>
 <h3 align="center">Android & web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkanemami05&label=Profile%20views&color=0e75b6&style=flat" alt="ashkanemami05" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ashkanemami05&icon=5&color=12)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Devfond](devfond.com)
 
